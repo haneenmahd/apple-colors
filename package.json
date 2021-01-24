@@ -1,0 +1,28 @@
+{
+  "name": "apple-colors",
+  "version": "1.0.0",
+  "description": "A Package for using Colors in your User Interace with colors used by apple",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneenmahd/apple-colors.git"
+  },
+  "keywords": [
+    "Colors",
+    "ui",
+    "ux",
+    "apple"
+  ],
+  "author": "Haneen Mahdin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haneenmahd/apple-colors/issues"
+  },
+  "discussions": "https://github.com/haneenmahd/apple-colors/discussions",
+  "homepage": "https://github.com/haneenmahd/apple-colors#readme",
+  "developer": {
+    "github": "https://github.com/haneenmahd",
+    "instagram": "https://instagram.com/haneenmahdin",
+    "twitter": "https://twitter.com/HaneenMahdin"
+  }
+}
