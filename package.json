@@ -1,6 +1,6 @@
 {
   "name": "apple-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
   "main": "index.js",
   "repository": {
