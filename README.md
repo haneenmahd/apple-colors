@@ -1,5 +1,6 @@
 # apple-colors
 A Package for using Colors in your User Interace with colors used by apple🍎
+![](https://github.com/haneenmahd/Cover.jpg)
 
 # How to use
 ### Using Colors on Your Web App
