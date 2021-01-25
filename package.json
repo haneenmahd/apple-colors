@@ -11,7 +11,11 @@
     "Colors",
     "ui",
     "ux",
-    "apple"
+    "apple",
+    "macos",
+    "ios",
+    "watchos",
+    "mac"
   ],
   "author": "Haneen Mahdin",
   "license": "MIT",
