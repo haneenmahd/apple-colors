@@ -2,6 +2,14 @@
 A Package for using Colors in your User Interace with colors used by apple🍎
 ![](https://github.com/haneenmahd/Cover.jpg)
 
+# How to Install
+### Using npm
+```
+npm i apple-colors
+```
+### Using yarn
+yard add apple-colors
+
 # How to use
 ### Using Colors on Your Web App
 Probably in this case we Have both Light and Dark Mode Colors For You.
