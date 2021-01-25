@@ -1,6 +1,6 @@
 # apple-colors
 A Package for using Colors in your User Interace with colors used by apple🍎
-![](https://github.com/haneenmahd/Cover.jpg)
+![Cover](https://github.com/haneenmahd/Cover.jpg)
 
 # How to Install
 ### Using npm
@@ -8,7 +8,9 @@ A Package for using Colors in your User Interace with colors used by apple🍎
 npm i apple-colors
 ```
 ### Using yarn
+```
 yard add apple-colors
+```
 
 # How to use
 ### Using Colors on Your Web App
