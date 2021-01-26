@@ -154,10 +154,7 @@ export const Colors = {
     }
 }
 
-// Logging to the console when npm start or npm run start is running on the command line
-console.log("Download the package from https://github.com/haneenmahd/apple-colors");
-console.log("Downloading Using npm - npm install apple-colors");
-console.log("Follow the Developer @haneenmahdin on Instagram - https://instagram.com/haneenmahdin");
+export default Colors;
 // Created by Haneen Mahdin
 // Instagram @haneenmahdin
 // Twitter @HaneenMahdin

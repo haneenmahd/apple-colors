@@ -1,6 +1,6 @@
 # apple-colors
 A Package for using Colors in your User Interace with colors used by apple🍎
-![Cover](https://github.com/haneenmahd/apple-colors/blob/master/Cover.png)
+![Cover](https://github.com/haneenmahd/apple-colors/blob/master/cover.png)
 
 # How to Install
 ### Using npm
