@@ -2,7 +2,7 @@
   "name": "apple-colors",
   "version": "1.0.4",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/haneenmahd/apple-colors.git"
