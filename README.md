@@ -1,5 +1,5 @@
 # apple-colors
-A Package for using Colors in your User Interace with colors used by apple🍎
+A Package for using Colors used by apple🍎 in your User Interface🌌
 ![Cover](https://github.com/haneenmahd/apple-colors/blob/master/cover.png)
 
 # How to Install
