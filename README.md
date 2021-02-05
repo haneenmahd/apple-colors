@@ -1,6 +1,6 @@
+![Cover](https://github.com/haneenmahd/apple-colors/blob/master/Cover.png)
 # apple-colors
 A Package for using Colors used by apple🍎 in your User Interface🌌
-![Cover](https://github.com/haneenmahd/apple-colors/blob/master/cover.png)
 
 # How to Install
 ### Using npm
@@ -19,7 +19,7 @@ Probably in this case we Have both Light and Dark Mode Colors For You.
 For Eg :- 
 - Using Styled Components
 
-```
+```js
 import { Colors } from "apple-colors";
 
 const Button = styled.button`
@@ -30,7 +30,7 @@ const Button = styled.button`
 ```
 
 - Using inline Styling
-```
+```js
 const MyColor = () => (
     <h1 style={{ background: Colors.iOS.Dark.Teal }}>Using Apple Colors</h1>
 )
