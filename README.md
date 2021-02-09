@@ -1,4 +1,4 @@
-![Cover](https://github.com/haneenmahd/apple-colors/blob/master/cover.png)
+![Cover](https://github.com/haneenmahd/apple-colors/blob/master/Cover.png)
 # apple-colors
 A Package for using Colors used by apple🍎 in your User Interface🌌
 
