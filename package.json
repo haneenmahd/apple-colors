@@ -1,11 +1,14 @@
 {
-  "name": "apple-colors",
-  "version": "1.0.7",
+  "name": "@haneenmahd/apple-colors",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "version": "1.0.8",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
   "main": "index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/haneenmahd/apple-colors"
+    "url": "git@github.com:haneenmahd/apple-colors.git"
   },
   "keywords": [
     "Colors",
@@ -22,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/haneenmahd/apple-colors/issues"
   },
-  "discussions": "https://github.com/haneenmahd/apple-colors/discussions",
   "homepage": "https://github.com/haneenmahd/apple-colors#readme",
   "developer": {
     "github": "https://github.com/haneenmahd",
