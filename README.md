@@ -7,11 +7,11 @@
 # How to Install
 ### Using npm
 ```
-npm i apple-colors
+npm i @haneenmahd/apple-colors
 ```
 ### Using yarn
 ```
-yard add apple-colors
+yard add @haneenmahd/apple-colors
 ```
 
 # How to use
