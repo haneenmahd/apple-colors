@@ -2,8 +2,6 @@
 ![Node.js Package](https://github.com/haneenmahd/apple-colors/workflows/Node.js%20Package/badge.svg)
 
 ### A Package for using Colors used by apple🍎 in your User Interface🌌
-![Cover](https://github.com/haneenmahd/apple-colors/blob/master/Cover.png)
-
 # How to Install
 ### Using npm
 ```
