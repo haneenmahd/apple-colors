@@ -1,5 +1,6 @@
 # apple-colors
 ![Node.js Package](https://github.com/haneenmahd/apple-colors/workflows/Node.js%20Package/badge.svg)
+[![](https://data.jsdelivr.com/v1/package/npm/apple-colors/badge)](https://www.jsdelivr.com/package/npm/apple-colors)
 
 ### A Package for using Colors used by apple🍎 in your User Interface🌌
 # How to Install
