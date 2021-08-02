@@ -6,6 +6,9 @@
   "version": "1.0.8",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
   "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:haneenmahd/apple-colors.git"
