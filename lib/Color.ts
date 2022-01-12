@@ -25,7 +25,7 @@ class Color {
      * Mixes up and creates a gradient
      * @param colors 
      */
-    mixUp(colors: string[], angle?: number) {
+    static mixUp(colors: string[], angle?: number) {
         let resultingGradient = `linear-gradient(${angle !== undefined ? angle: 0}deg, `;
 
         colors.forEach((color, index) => {

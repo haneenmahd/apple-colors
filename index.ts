@@ -1,3 +1,5 @@
+import Color from "./lib/Color";
+
 export const Colors = {
     WatchOS: {
         White: "#ffffff",
@@ -154,6 +156,7 @@ export const Colors = {
     }
 }
 
+export { Color };
 export default Colors;
 // Created by Haneen Mahdin
 // Instagram @haneenmahdin
