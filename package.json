@@ -1,6 +1,6 @@
 {
   "name": "apple-colors",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
   "scripts": {
     "build": "tsc",
