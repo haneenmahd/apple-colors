@@ -1,7 +1,7 @@
 export const Colors = {
     WatchOS: {
         White: "#ffffff",
-        Red: "DF1125",
+        Red: "#DF1125",
         NeonPink: "#FB212F",
         ElectricPink: "#FC3644",
         Hibiscus: "#FB0049",

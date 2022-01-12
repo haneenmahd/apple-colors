@@ -2,7 +2,6 @@
   "name": "apple-colors",
   "version": "1.0.9",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
-  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
@@ -30,5 +29,9 @@
     "github": "https://github.com/haneenmahd",
     "instagram": "https://instagram.com/haneenmahdin",
     "twitter": "https://twitter.com/HaneenMahdin"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "yarn": "^1.22.17"
   }
 }
