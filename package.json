@@ -3,7 +3,9 @@
   "version": "1.0.9",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "node dist/test.js",
+    "dev": "npm run build && npm run test"
   },
   "repository": {
     "type": "git",
