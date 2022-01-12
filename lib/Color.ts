@@ -20,6 +20,29 @@ class Color {
 
         return false;
     }
+
+    /**
+     * Mixes up and creates a gradient
+     * @param colors 
+     */
+    mixUp(colors: string[], angle?: number) {
+        let resultingGradient = `linear-gradient(${angle !== undefined ? angle: 0}deg, `;
+
+        colors.forEach((color, index) => {
+            if (new Color(color).validate() !== true) {
+                throw new Error(`Couldn't validate color hex code: ${color}`);
+            }
+            if (index === colors.length - 1) {
+                resultingGradient += color;
+            } else {
+                resultingGradient += `${color}, `;
+            }
+        });
+
+        resultingGradient += ")";
+
+        return resultingGradient;
+    }
 }
 
 type ColorType = string;

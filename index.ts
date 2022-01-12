@@ -1,5 +1,3 @@
-import Colors from "./lib/Colors";
-
 export const Colors = {
     WatchOS: {
         White: "#ffffff",
