@@ -13,7 +13,7 @@ class Color {
         const hexCode = this.hexCode;
 
         if (hexCode.startsWith("#")) {
-            if (hexCode.length >= 4 || hexCode.length >= 7) {
+            if (hexCode.length === 4 || hexCode.length === 7 || hexCode.length == 9) {
                 return true;
             }
         }
