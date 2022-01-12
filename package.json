@@ -1,9 +1,6 @@
 {
-  "name": "@haneenmahd/apple-colors",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "version": "1.0.8",
+  "name": "apple-colors",
+  "version": "1.0.9",
   "description": "A Package for using Colors in your User Interace with colors used by apple",
   "main": "dist/index.js",
   "scripts": {
