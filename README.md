@@ -49,5 +49,11 @@ const MyColor = () => <h1 style={{ background: Colors.iOS.Dark.Teal }}>Using App
   const color = Color.mixUp(["#fff", /* More colors here */], 20 /* rotation degree */)
   ```
 
+## Developer
+- [@HaneenMahdin on Twitter🐥](https://twitter.com/HaneenMahdin)
+- [@haneenmahdin on Instagram](https://instagram.com/haneenmahdin)
+
+Give us a star 🌟 on [GitHub](https://github.com/haneenmahd/apple-colors)
+
 ## LICENSE
 Apple Colors is licensed under **`MIT`** License.
